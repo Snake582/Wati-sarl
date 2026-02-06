@@ -4,16 +4,16 @@ import { useRef, useState, useEffect } from 'react'
 
 const items = [
   {
-    title: 'Développement & Marchés',
-    desc: 'Structuration, représentation et développement de marchés stratégiques.',
+    title: 'Conseil & Accompagnement',
+    desc: 'Stratégie, organisation, transformation digitale et gestion de projets.',
   },
   {
-    title: 'Immobilier & Projets',
-    desc: 'Montage et accompagnement de projets immobiliers durables.',
+    title: 'Immobilier apres plan rajouter architecturaux',
+    desc: 'Études de faisabilité, gestion de projets immobiliers et conseils en investissement.',
   },
   {
-    title: 'Conseil & Ingénierie',
-    desc: 'Études techniques, accompagnement et conseil stratégique.',
+    title: 'Représentation commerciale',
+    desc: 'Prospection, négociation et gestion de comptes pour développer votre présence commerciale.',
   },
 ]
 

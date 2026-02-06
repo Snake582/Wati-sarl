@@ -12,9 +12,8 @@ export default function SymbolicSection() {
         </h2>
 
         <p className="text-gray-200 max-w-3xl mx-auto mb-10">
-         Une expertise fondée sur l’expérience terrain, au contact des acteurs économiques locaux, combinant analyse stratégique et compréhension des réalités économiques, permettant une lecture fine des enjeux et des opportunités du développement ouest-africain.
-        </p>
-
+          Une expertise fondée sur l’expérience terrain, en contact avec les acteurs économiques, combinant analyse stratégique et compréhension des réalités économiques, permettant une lecture fine des enjeux et des opportunités du développement ouest-africain.        
+       </p>
         <Link
           href="/About"
           className="inline-block bg-gradient-to-r from-gray-50 to-gray-200 hover:from-gray-800 hover:to-black text-black hover:text-white font-semibold px-10 py-4 rounded-full  transition"

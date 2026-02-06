@@ -18,20 +18,15 @@ export default function AboutPage() {
             <span className="font-semibold text-white">
               WATI SARL – West African Trading & Investment
             </span>{' '}
-            intervient dans l’immobilier, les marchés publics, l’intermédiation
-            et le conseil stratégique et fiscal en Afrique de l’Ouest.
+            intervient dans l’immobilier, le conseil et l’accompagnement des
+            sociétés, ainsi que l’intermédiation en Afrique de l’Ouest.
           </p>
 
           <p>
             Nous opérons à la fois comme acteur de terrain et partenaire
             stratégique, en structurant des projets, en exécutant des missions
             ciblées et en reliant les bons acteurs autour d’opportunités
-            concrètes, aussi bien dans les affaires publiques que privées.
-          </p>
-
-          <p>
-            Notre approche repose sur la rigueur, la maîtrise des réalités
-            locales et la création de valeur durable.
+            concrètes.
           </p>
         </div>
 
@@ -55,8 +50,7 @@ export default function AboutPage() {
           <p className="text-gray-300 leading-relaxed">
             Nous combinons intervention opérationnelle, lecture fine du terrain
             et intermédiation stratégique. Chaque mission est menée avec méthode,
-            exigence et adaptation aux réalités économiques, réglementaires et
-            humaines.
+            exigence et adaptation aux réalités économiques et réglementaires.
           </p>
         </div>
 

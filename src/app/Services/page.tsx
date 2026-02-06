@@ -11,12 +11,12 @@ const servicesTop: Service[] = [
   {
     title: 'Représentation commerciale',
     description:
-      "WATI assure la représentation commerciale de marques n’étant pas encore implantées au Sénégal, en accompagnant leur introduction sur le marché local, la prospection de partenaires et le développement de leur présence commerciale.",
+      " WATI assure la représentation commerciale de marques au Sénégal, en accompagnant leur introduction sur le marché local, la prospection de partenaires et le développement de leur présence.",
     },
   {
     title: 'Immobilier',
     description:
-      "WATI intervient dans la conception de plans, la construction et le suivi de projets immobiliers. L’entreprise assure, selon les besoins, l’accompagnement et le suivi durant les phases de construction, et intervient également dans le développement immobilier, de l’étude à la réalisation des projets.",
+      " WATI intervient dans la conception de plans architecturaux , la construction et le suivi de projets, intervient également dans le développement immobilier, de l’étude à la réalisation .",
   },
   {
     title: 'Développement commercial & prospection',
