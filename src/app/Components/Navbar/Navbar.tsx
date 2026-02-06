@@ -22,7 +22,7 @@ export default function Navbar() {
 
           {/* Logo */}
           <Image
-            src="/wati_logo_page_3.png"
+            src="/WATI_logo_page_3.png"
             alt="WATI Logo"
             width={180}
             height={80}
