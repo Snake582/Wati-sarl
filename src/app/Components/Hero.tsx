@@ -7,37 +7,37 @@ export default function Hero() {
   return (
     <section className="relative min-h-[100svh] overflow-hidden">
 
-      {/* Image de fond */}
+      {/* Background */}
       <Image
         src="/images/WhatsApp Image 2026-02-04 at 15.40.58.jpeg"
         alt="WATI background"
         fill
         priority
-        className="
-          object-cover
-          object-top
-          md:object-center
-        "
+        className="object-cover object-center"
       />
 
       {/* Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 to-black/60 z-10" />
 
-      {/* Texte haut */}
-      <div className="absolute top-24 md:top-28 left-1/2 -translate-x-1/2 z-20 text-center px-6 max-w-4xl">
-        <p className="text-2xl sm:text-3xl md:text-4xl tracking-[0.35em] text-white uppercase">
+      {/* Contenu */}
+      <div className="relative z-20 flex min-h-[100svh] flex-col items-center justify-between px-6 py-24 text-center">
+
+        {/* Texte */}
+        <p className="text-xl sm:text-2xl md:text-4xl tracking-[0.35em] text-white uppercase">
           Bienvenue chez
         </p>
-      </div>
 
-      {/* CTA */}
-      <div className="absolute bottom-20 md:bottom-28 left-1/2 -translate-x-1/2 z-20">
+        {/* CTA */}
         <Link
           href="/Services"
-          className="px-6 py-4 rounded-md bg-white text-black font-semibold"
+          className="mt-10 inline-flex items-center justify-center
+                     rounded-md bg-white px-8 py-4
+                     text-sm sm:text-base font-semibold text-black
+                     transition active:scale-95"
         >
           Découvrir nos services
         </Link>
+
       </div>
     </section>
   )

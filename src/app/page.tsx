@@ -19,7 +19,7 @@ export default function Page() {
       <SymbolicSection />
 
       {/* CONTACT */}
-      <section className="max-w-3xl mx-auto text-center px-2 mt-12 md:mt-18">
+      <section className="max-w-3xl mx-auto text-center px-2 mt-16 md:mt-20">
         <ContactPage />
       </section>
 
