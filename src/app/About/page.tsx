@@ -18,15 +18,19 @@ export default function AboutPage() {
             <span className="font-semibold text-white">
               WATI SARL – West African Trading & Investment
             </span>{' '}
-            intervient dans l’immobilier, le conseil et l’accompagnement des
-            sociétés, ainsi que l’intermédiation en Afrique de l’Ouest.
+            intervient dans l’immobilier, le conseil stratégique,
+            l’accompagnement des entreprises et l’intermédiation.
+            Acteur de terrain et partenaire stratégique, WATI SARL structure des
+            projets, exécute des missions ciblées et connecte les bons acteurs
+            autour d’opportunités concrètes et réalistes, aussi bien pour les
+            marchés publics que privés.
           </p>
 
           <p>
-            Nous opérons à la fois comme acteur de terrain et partenaire
-            stratégique, en structurant des projets, en exécutant des missions
-            ciblées et en reliant les bons acteurs autour d’opportunités
-            concrètes.
+            Son approche repose sur une combinaison d’interventions
+            opérationnelles, d’une compréhension fine des réalités locales et
+            d’une vision stratégique, menée avec rigueur, transparence,
+            engagement et pragmatisme.
           </p>
         </div>
 
@@ -48,9 +52,10 @@ export default function AboutPage() {
             Notre approche
           </h2>
           <p className="text-gray-300 leading-relaxed">
-            Nous combinons intervention opérationnelle, lecture fine du terrain
-            et intermédiation stratégique. Chaque mission est menée avec méthode,
-            exigence et adaptation aux réalités économiques et réglementaires.
+            WATI SARL combine intervention opérationnelle, lecture fine du
+            terrain et intermédiation stratégique. Chaque mission est menée avec
+            méthode, exigence et adaptation aux réalités économiques et
+            réglementaires.
           </p>
         </div>
 
@@ -91,7 +96,7 @@ export default function AboutPage() {
           </ul>
         </div>
 
-        {/* Pourquoi WATI */}
+        {/* Pourquoi */}
         <div>
           <h2 className="text-2xl font-semibold text-white mb-4">
             Pourquoi WATI SARL ?
@@ -100,10 +105,10 @@ export default function AboutPage() {
             Parce qu’un projet ne se limite pas à une idée ou à un conseil.
             <br />
             <br />
-            WATI SARL se positionne comme un acteur de terrain et un intermédiaire
-            stratégique, capable de structurer, d’exécuter et de connecter les
-            opportunités dans les marchés publics comme dans les affaires
-            privées.
+            WATI SARL se positionne comme un acteur de terrain et un
+            intermédiaire stratégique, capable de structurer, d’exécuter et de
+            connecter les opportunités dans les marchés publics comme dans les
+            affaires privées.
           </p>
         </div>
       </div>
