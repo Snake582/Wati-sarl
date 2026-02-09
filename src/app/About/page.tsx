@@ -9,7 +9,7 @@ export default function AboutPage() {
       <div className="relative max-w-5xl mx-auto z-10">
         {/* Titre */}
         <h1 className="text-3xl md:text-4xl font-bold text-white mb-10 text-center">
-          À propos de WATI
+          À propos de WATI SARL
         </h1>
 
         {/* Intro */}
@@ -94,13 +94,13 @@ export default function AboutPage() {
         {/* Pourquoi WATI */}
         <div>
           <h2 className="text-2xl font-semibold text-white mb-4">
-            Pourquoi WATI
+            Pourquoi WATI SARL ?
           </h2>
           <p className="text-gray-300 leading-relaxed">
             Parce qu’un projet ne se limite pas à une idée ou à un conseil.
             <br />
             <br />
-            WATI se positionne comme un acteur de terrain et un intermédiaire
+            WATI SARL se positionne comme un acteur de terrain et un intermédiaire
             stratégique, capable de structurer, d’exécuter et de connecter les
             opportunités dans les marchés publics comme dans les affaires
             privées.

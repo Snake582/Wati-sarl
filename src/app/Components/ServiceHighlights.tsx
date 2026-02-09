@@ -8,7 +8,7 @@ const items = [
     desc: 'Stratégie, organisation, transformation digitale et gestion de projets.',
   },
   {
-    title: 'Immobilier apres plan rajouter architecturaux',
+    title: 'Immobilier',
     desc: 'Études de faisabilité, gestion de projets immobiliers et conseils en investissement.',
   },
   {
